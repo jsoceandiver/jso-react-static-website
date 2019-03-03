@@ -3,7 +3,7 @@
 const fse = require('fs-extra');
 const path = require('path');
 
-const paths = ['assets',  'data', 'dist', 'src', 'LICENSE', 'browserslist', 'package.json', 'README.md', '.gitignore'];
+const paths = ['assets',  'data', 'dist', 'src', 'LICENSE', 'browserslist', 'package.json', 'README.md'];
 
 for(let i=0; i<paths.length; i++){
     const pathItem = '../' + paths[i];
