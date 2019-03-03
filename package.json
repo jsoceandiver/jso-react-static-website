@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/jsoceandiver/jso-react-static-website.git"
   },
+  "bin": {
+    "build": "./bin/cli.js"
+  },
   "author": "jsocean.com",
   "license": "MIT",
   "homepage": "https://github.com/jsoceandiver/jso-react-static-website.git",
