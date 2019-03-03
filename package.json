@@ -1,6 +1,6 @@
 {
   "name": "jso-react-static-website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Really simple static site generator based on React.",
   "scripts": {
     "build": "node src/js/website-generator/app.js",
