@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://1rosehip@bitbucket.org/1rosehip/js-data-controls-site.git"
+    "url": "git+https://github.com/jsoceandiver/jso-react-static-website.git"
   },
   "author": "jsocean.com",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/1rosehip/js-data-controls-site#readme",
+  "homepage": "https://github.com/jsoceandiver/jso-react-static-website.git",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
