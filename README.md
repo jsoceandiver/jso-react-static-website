@@ -11,7 +11,9 @@ Really simple static site generator based on [React without ES6](https://reactjs
 ## How to install?
 
 ```
+cd my-website-folder
 npx jso-react-static-website build
+npm install
 ```
 
 ## How to use?
