@@ -5,6 +5,8 @@ Really simple static site generator based on [React without ES6](https://reactjs
            
 - No markdown, only react :) You are free to use any markup you need.
 - Uses SASS preprocessor and autoprefixer for CSS, automatically minifies the CSS output.
+- Minifies client side javascript using UglifyJS
+- MIT licensed
 
 ## How to install?
 
